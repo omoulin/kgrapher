@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=KGrapher
+GenericName=Function Grapher
+Comment=Plot 2D and 3D graphs from equations
+Exec=kgrapher %F
+Icon=accessories-calculator
+Categories=Qt;KDE;Education;Science;Math;
+Keywords=graph;plot;function;equation;2D;3D;
+StartupNotify=true
